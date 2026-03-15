@@ -1,13 +1,12 @@
 ![Assignment-2](https://t4.ftcdn.net/jpg/03/06/88/29/360_F_306882952_XYkVbLIWubBrEyg5vvjcKisffe8CsuZG.jpg)
 
 <h1 align="center">
-  Assignment 9 🚀
+  Assignment 5 🚀
 </h1>
 <p align="center">
-  (Batch-4)
+  (Batch-6)
 </p>
 
-🎉 **Welcome to Assignment 9!!**
 
 ## 🛠️ Technology Stack
 
@@ -20,9 +19,9 @@
 *   **Database:**
     *   **PostgreSQL** (for relational data storage).
 *   **Authentication:**
-    *   **JWT** (for session management).
+    *   **JWT** or  **Better-Auth** (for session management).
 *   **Payment Integration:**
-    *   **SSLCommerz** or **ShurjoPay** (for premium subscriptions).
+    *  **Stripe**, **SSLCommerz** or any other payment gateway (for premium subscriptions).
 *   **Deployment:**
     *   Vercel, render, ralway for hosting and deployment.
 
@@ -35,6 +34,34 @@
 
 ---
 
+# Assignment Evaluation Criteria
+
+## 1. Homepage Design (20%)
+- 4 sections
+- Navbar
+- Footer
+
+## 2. UI/UX Quality (20%)
+- Responsive design
+- Consistent styling
+
+## 3. Commit History (10%)
+- Minimum **30 meaningful commits**
+
+## 4. Error Handling (10%)
+- Input validation
+- Loading states
+
+## 5. Core Functionality (30%)
+- Authentication (Auth)
+- CRUD operations
+- Role-based access control
+
+## 6. Video Explanation (10%)
+- **5–10 minute** demo video explaining the project
+
+  ---
+
 ## 📤 **Submission Guidelines:**
 
 - Submit a well-documented codebase with clear comments.
@@ -42,32 +69,45 @@
 - It is recommended to create the explanation video in English, but making it in Bengali is fine too. The video duration should be between 5-10 minutes.
 - For recording, you can use a software called OBS. Record the video using it, upload it to Google Drive, and share the link (make sure to set the access to "anyone with the link"). Alternatively, you can use a platform called Loom. Record the video there, and they will provide a link that you can share.
 
+---
 
+## 📦 What to Submit
 
-## What You Need to Provide:
+| Item | Required |
+|------|:--------:|
+| Frontend GitHub Repo | ✅ |
+| Backend GitHub Repo | ✅ |
+| Frontend Live URL | ✅ |
+| Backend Live URL | ✅ |
+| Demo Video (5-10 min) | ✅ |
+| Admin Credentials | ✅ |
 
-1. **GitHub Repository Link**
-2. **Live Deployment Link**
-3. **Admin or other necessary credentials**
-4. **Video Explanation (Public Link)**
-5. **Professional README file** with features of your application and instructions on setting up the project locally.
+**Example:**
+```
+Frontend Repo    : https://github.com/your-username/skillbridge-frontend
+Backend Repo     : https://github.com/your-username/skillbridge-backend
+Frontend Live    : https://skillbridge.vercel.app
+Backend Live     : https://skillbridge-api.vercel.app
+Demo Video       : https://drive.google.com/file/d/xxx/view
+Admin Email      : admin@skillbridge.com
+Admin Password   : admin123
+```
+--- 
 
 ## Assignment Number based on the Last Digit of PH Student ID:
 On the website, click on your profile image, and a dropdown will open. There, you will find your Student ID displayed below your name.
 
 | The last Digit of PH Student ID | Assignment Number (Design No)   |
 | ------------------------------- | ------------------------------- |
-| 0, 1                            | [SET-1](./1-Product-Review-Portal.md)       |
+| 0, 1,                             | [SET-1](./)       |
 | 2, 3                            | [SET-2](./2-Sustainability-Idea-Hub.md)      |
 | 4, 5                            | [SET-3](./3-Street-Food-Finder-&-Review.md)       |
-| 6, 7                            | [SET-4](./4-Event-Planner-&-Participation-System.md)  |
-| 8, 9                            | [SET-5](./5-Movie-and-Series-Rating-&-Streaming-Portal.md) |
 
 ### ⏰ **Deadline:**
 
-- **60 Marks:** May 04, 2026, at 11:59 PM
-- **50 Marks:** May 05, 2025, at 11:59 PM
-- **30 Marks:** After March 05, 2025
+- **60 Marks:** April 31, 2026, at 11:59 PM
+- **50 Marks:** May 01, 2026, at 11:59 PM
+- **30 Marks:** After March 01, 2026
 
 ## 🚫 **Important Note:**
 
