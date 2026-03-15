@@ -65,7 +65,7 @@ On the website, click on your profile image, and a dropdown will open. There, yo
 
 ### ⏰ **Deadline:**
 
-- **60 Marks:** May 04, 2025, at 11:59 PM
+- **60 Marks:** May 04, 2026, at 11:59 PM
 - **50 Marks:** May 05, 2025, at 11:59 PM
 - **30 Marks:** After March 05, 2025
 
