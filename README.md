@@ -271,7 +271,7 @@ Admin Password   : admin123
 | ------------ | ------------------------- |
 | **60 Marks** | March 31, 2026 – 11:59 PM |
 | **50 Marks** | May 01, 2026 – 11:59 PM   |
-| **30 Marks** | After March 01, 2026      |
+| **30 Marks** | After May 01, 2026      |
 
 ---
 
