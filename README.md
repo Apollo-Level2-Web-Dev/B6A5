@@ -45,8 +45,6 @@ You may implement authentication using:
 
 ## Payment Integration
 
-(Optional but recommended)
-
 * **Stripe**
 * **SSLCommerz**
 * Or any other payment gateway
