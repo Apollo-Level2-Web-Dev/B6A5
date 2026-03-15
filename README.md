@@ -30,11 +30,10 @@ To find your **Student ID**:
 
 ---
 
-| Last Digit of PH Student ID | Assignment Set                                             |
-| --------------------------- | ---------------------------------------------------------- |
-| 0, 1, 2, 3                  | [SET-1](/1.Sustainability-Idea-Hub.md)                     |
-| 4, 5, 6                     | [SET-2](./2.Event-Planner-&-Participation-System.md)       |
-| 7, 8, 9                     | [SET-3](./3.Movie-and-Series-Rating-&-Streaming-Portal.md) |
+
+[SET-1](/1.Sustainability-Idea-Hub.md)                     |
+[SET-2](./2.Event-Planner-&-Participation-System.md)       |
+[SET-3](./3.Movie-and-Series-Rating-&-Streaming-Portal.md) |
 
 
 ---
