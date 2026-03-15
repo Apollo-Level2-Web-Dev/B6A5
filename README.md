@@ -19,6 +19,26 @@ The goal of this assignment is to demonstrate your ability to:
 
 ---
 
+# 🆔 Assignment Number Based on PH Student ID
+
+To find your **Student ID**:
+
+1. Go to the website
+2. Click on your **profile image**
+3. A dropdown will open
+4. Your **Student ID** will appear below your name
+
+---
+
+| Last Digit of PH Student ID | Assignment Set                                             |
+| --------------------------- | ---------------------------------------------------------- |
+| 0, 1, 2, 3                  | [SET-1](/1.Sustainability-Idea-Hub.md)                     |
+| 4, 5, 6                     | [SET-2](./2.Event-Planner-&-Participation-System.md)       |
+| 7, 8, 9                     | [SET-3](./3.Movie-and-Series-Rating-&-Streaming-Portal.md) |
+
+
+---
+
 # 🛠️ Technology Stack
 
 ## Frontend
@@ -242,25 +262,6 @@ Demo Video       : https://drive.google.com/file/d/abc/view
 Admin Email      : admin@project.com
 Admin Password   : admin123
 ```
-
----
-
-# 🆔 Assignment Number Based on PH Student ID
-
-To find your **Student ID**:
-
-1. Go to the website
-2. Click on your **profile image**
-3. A dropdown will open
-4. Your **Student ID** will appear below your name
-
----
-
-| Last Digit of PH Student ID | Assignment Set                                             |
-| --------------------------- | ---------------------------------------------------------- |
-| 0, 1, 2, 3                  | [SET-1](/1.Sustainability-Idea-Hub.md)                     |
-| 4, 5, 6                     | [SET-2](./2.Event-Planner-&-Participation-System.md)       |
-| 7, 8, 9                     | [SET-3](./3.Movie-and-Series-Rating-&-Streaming-Portal.md) |
 
 ---
 
