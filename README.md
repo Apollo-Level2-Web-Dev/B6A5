@@ -1,119 +1,301 @@
 ![Assignment-2](https://t4.ftcdn.net/jpg/03/06/88/29/360_F_306882952_XYkVbLIWubBrEyg5vvjcKisffe8CsuZG.jpg)
 
-<h1 align="center">
-  Assignment 5 🚀
-</h1>
-<p align="center">
-  (Batch-6)
-</p>
-
-
-## 🛠️ Technology Stack
-
-*   **Frontend:**
-    *   **Next.js** (for server-side rendering and static site generation).
-    *   **Tailwind CSS** (for utility-first styling).
-*   **Backend:**
-    *   **Node.js** with **Express.js** (for RESTful API).
-    *   **Prisma** (for database management).
-*   **Database:**
-    *   **PostgreSQL** (for relational data storage).
-*   **Authentication:**
-    *   **JWT** or  **Better-Auth** (for session management).
-*   **Payment Integration:**
-    *  **Stripe**, **SSLCommerz** or any other payment gateway (for premium subscriptions).
-*   **Deployment:**
-    *   Vercel, render, ralway for hosting and deployment.
-
-- **Package Management:**
-
-  - Any npm packages that are required for your project
-
-- **Additional Technologies:**
-  - Feel free to incorporate any additional technologies that you deem necessary for your project.
+<h1 align="center">🚀 Assignment 5</h1>
+<p align="center"><strong>Batch - 6</strong></p>
 
 ---
 
-# Assignment Evaluation Criteria
+# 📌 Project Overview
 
-## 1. Homepage Design (20%)
-- 4 sections
-- Navbar
-- Footer
+This assignment focuses on building a **full-stack web application** using modern technologies such as **Next.js, Node.js, Express, Prisma, and PostgreSQL**.
+Students are expected to implement **authentication, CRUD functionality, role-based access control, and a professional UI/UX design**.
 
-## 2. UI/UX Quality (20%)
-- Responsive design
-- Consistent styling
+The goal of this assignment is to demonstrate your ability to:
 
-## 3. Commit History (10%)
-- Minimum **30 meaningful commits**
-
-## 4. Error Handling (10%)
-- Input validation
-- Loading states
-
-## 5. Core Functionality (30%)
-- Authentication (Auth)
-- CRUD operations
-- Role-based access control
-
-## 6. Video Explanation (10%)
-- **5–10 minute** demo video explaining the project
-
-  ---
-
-## 📤 **Submission Guidelines:**
-
-- Submit a well-documented codebase with clear comments.
-- Make sure to add a README file that explains how to set up and use the application. In the README, include details like the project name, live URL, features, technology used, and other important information. Try to make it look professional by doing some research and making it appealing.
-- It is recommended to create the explanation video in English, but making it in Bengali is fine too. The video duration should be between 5-10 minutes.
-- For recording, you can use a software called OBS. Record the video using it, upload it to Google Drive, and share the link (make sure to set the access to "anyone with the link"). Alternatively, you can use a platform called Loom. Record the video there, and they will provide a link that you can share.
+* Build a **production-style full-stack application**
+* Maintain **clean project structure**
+* Follow **best development practices**
+* Deliver a **fully functional deployed application**
 
 ---
 
-## 📦 What to Submit
+# 🛠️ Technology Stack
 
-| Item | Required |
-|------|:--------:|
-| Frontend GitHub Repo | ✅ |
-| Backend GitHub Repo | ✅ |
-| Frontend Live URL | ✅ |
-| Backend Live URL | ✅ |
-| Demo Video (5-10 min) | ✅ |
-| Admin Credentials | ✅ |
+## Frontend
 
-**Example:**
+* **Next.js** - Server-side rendering and static site generation
+* **Tailwind CSS** - Utility-first CSS framework
+
+## Backend
+
+* **Node.js**
+* **Express.js** - REST API development
+* **Prisma** - Database ORM
+
+## Database
+
+* **PostgreSQL** - Relational database system
+
+## Authentication
+
+You may implement authentication using:
+
+* **JWT**
+* **Better-Auth**
+
+## Payment Integration
+
+(Optional but recommended)
+
+* **Stripe**
+* **SSLCommerz**
+* Or any other payment gateway
+
+## Deployment
+
+You may deploy your project using:
+
+* **Vercel**
+* **Render**
+* **Railway**
+
+## Package Management
+
+You are free to use any **npm packages** necessary for your project.
+
+## Additional Technologies
+
+You may integrate additional tools or technologies if they improve your application.
+
+---
+
+# 📊 Assignment Evaluation Criteria
+
+| Criteria           | Marks |
+| ------------------ | ----- |
+| Homepage Design    | 20%   |
+| UI/UX Quality      | 20%   |
+| Commit History     | 10%   |
+| Error Handling     | 10%   |
+| Core Functionality | 30%   |
+| Video Explanation  | 10%   |
+
+---
+
+# 1️⃣ Homepage Design (20%)
+
+Your homepage must contain:
+
+* Minimum **4 sections**
+* **Navbar**
+* **Footer**
+
+Example sections could include:
+
+* Hero Section
+* Feature Section
+* Testimonials
+* Pricing
+* Call-to-action
+
+---
+
+# 2️⃣ UI/UX Quality (20%)
+
+The application must demonstrate:
+
+* Fully **responsive design**
+* **Consistent UI styling**
+* Clean and intuitive **user experience**
+
+---
+
+# 3️⃣ Commit History (10%)
+
+* Minimum **30 meaningful commits**
+* Avoid committing large chunks of code at once
+* Follow a **clean commit structure**
+
+Example:
+
 ```
-Frontend Repo    : https://github.com/your-username/skillbridge-frontend
-Backend Repo     : https://github.com/your-username/skillbridge-backend
-Frontend Live    : https://skillbridge.vercel.app
-Backend Live     : https://skillbridge-api.vercel.app
-Demo Video       : https://drive.google.com/file/d/xxx/view
-Admin Email      : admin@skillbridge.com
+feat: implement authentication system
+fix: resolve login validation bug
+style: improve homepage UI
+```
+
+---
+
+# 4️⃣ Error Handling (10%)
+
+Your application should properly handle errors, including:
+
+* **Input validation**
+* **Loading states**
+* Proper **error messages**
+
+Examples:
+
+* Invalid login credentials
+* Failed API requests
+* Missing required fields
+
+---
+
+# 5️⃣ Core Functionality (30%)
+
+Your project must implement the following:
+
+### Authentication
+
+* User Registration
+* User Login
+* Secure authentication
+
+### CRUD Operations
+
+Create, Read, Update, Delete functionality.
+
+### Role-Based Access Control (RBAC)
+
+Example roles:
+
+* **Admin**
+* **User**
+
+Admins may manage data while users have limited permissions.
+
+---
+
+# 6️⃣ Video Explanation (10%)
+
+Submit a **5–10 minute video** explaining:
+
+* Project overview
+* Key features
+* Code structure
+* Live demo of the application
+
+The video should clearly demonstrate that your application works.
+
+---
+
+# 📤 Submission Guidelines
+
+Please ensure the following before submitting your assignment:
+
+* Your code is **well structured and documented**
+* A **professional README file** is included
+* The application is **fully deployed**
+
+Your README should include:
+
+* Project name
+* Project description
+* Live URLs
+* Features
+* Technologies used
+* Setup instructions
+
+---
+
+# 🎥 Recording the Demo Video
+
+You may use one of the following tools:
+
+## OBS Studio / Loom
+
+1. Record the project demo
+2. Upload it to **Google Drive**
+3. Share the link
+
+Make sure access is set to:
+
+```
+Anyone with the link
+```
+
+---
+
+# 📦 What to Submit
+
+| Item                       | Required |
+| -------------------------- | :------: |
+| Frontend GitHub Repository |     ✅    |
+| Backend GitHub Repository  |     ✅    |
+| Frontend Live URL          |     ✅    |
+| Backend Live URL           |     ✅    |
+| Demo Video (5-10 min)      |     ✅    |
+| Admin Credentials          |     ✅    |
+
+---
+
+# 🧾 Example Submission Format
+
+```
+Frontend Repo    : https://github.com/your-username/project-frontend
+Backend Repo     : https://github.com/your-username/project-backend
+
+Frontend Live    : https://project-frontend.vercel.app
+Backend Live     : https://project-backend.vercel.app
+
+Demo Video       : https://drive.google.com/file/d/abc/view
+
+Admin Email      : admin@project.com
 Admin Password   : admin123
 ```
---- 
-
-## Assignment Number based on the Last Digit of PH Student ID:
-On the website, click on your profile image, and a dropdown will open. There, you will find your Student ID displayed below your name.
-
-| The last Digit of PH Student ID | Assignment Number (Design No)   |
-| ------------------------------- | ------------------------------- |
-| 0, 1,                             | [SET-1](./)       |
-| 2, 3                            | [SET-2](./2-Sustainability-Idea-Hub.md)      |
-| 4, 5                            | [SET-3](./3-Street-Food-Finder-&-Review.md)       |
-
-### ⏰ **Deadline:**
-
-- **60 Marks:** April 31, 2026, at 11:59 PM
-- **50 Marks:** May 01, 2026, at 11:59 PM
-- **30 Marks:** After March 01, 2026
-
-## 🚫 **Important Note:**
-
-Plagiarism will not be tolerated. Ensure that the code you submit is your work. Any instances of plagiarism will result in 0 Marks.
 
 ---
 
-By following these instructions, you'll be well-equipped to complete Assignment 9 successfully. Good luck! 🍀
+# 🆔 Assignment Number Based on PH Student ID
 
+To find your **Student ID**:
+
+1. Go to the website
+2. Click on your **profile image**
+3. A dropdown will open
+4. Your **Student ID** will appear below your name
+
+---
+
+| Last Digit of PH Student ID | Assignment Set                                             |
+| --------------------------- | ---------------------------------------------------------- |
+| 0, 1, 2, 3                  | [SET-1](/1.Sustainability-Idea-Hub.md)                     |
+| 4, 5, 6                     | [SET-2](./2.Event-Planner-&-Participation-System.md)       |
+| 7, 8, 9                     | [SET-3](./3.Movie-and-Series-Rating-&-Streaming-Portal.md) |
+
+---
+
+# ⏰ Deadline
+
+| Marks        | Deadline                  |
+| ------------ | ------------------------- |
+| **60 Marks** | April 31, 2026 – 11:59 PM |
+| **50 Marks** | May 01, 2026 – 11:59 PM   |
+| **30 Marks** | After March 01, 2026      |
+
+---
+
+# 🚫 Important Notice
+
+⚠️ **Plagiarism will not be tolerated.**
+
+All submitted code must be **your own work**.
+
+Any instance of plagiarism will result in:
+
+```
+0 Marks
+```
+
+---
+
+# 🎯 Final Note
+
+Follow the instructions carefully and focus on:
+
+* Writing clean code
+* Maintaining a professional project structure
+* Delivering a fully working application
+
+Good luck with **Assignment 5! 🍀**
