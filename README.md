@@ -62,6 +62,7 @@ You may implement authentication using:
 
 * **JWT**
 * **Better-Auth**
+* **Passport-Auth**
 
 ## Payment Integration
 
