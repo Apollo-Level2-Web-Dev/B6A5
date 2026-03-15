@@ -19,24 +19,6 @@ The goal of this assignment is to demonstrate your ability to:
 
 ---
 
-# 🆔 Assignment Number Based on PH Student ID
-
-To find your **Student ID**:
-
-1. Go to the website
-2. Click on your **profile image**
-3. A dropdown will open
-4. Your **Student ID** will appear below your name
-
----
-
-
-[SET-1](/1.Sustainability-Idea-Hub.md)                     |
-[SET-2](./2.Event-Planner-&-Participation-System.md)       |
-[SET-3](./3.Movie-and-Series-Rating-&-Streaming-Portal.md) |
-
-
----
 
 # 🛠️ Technology Stack
 
